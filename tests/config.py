@@ -1,3 +1,6 @@
+valid_email = ""
+valid_pass = ""
+
 invalid_email = 'mail@mai.com'
 invalid_pass = '11111'
 
